@@ -1,7 +1,7 @@
 from bot_api import Api
 import telebot
 
-bot = telebot.TeleBot('1674625177:AAFyt68T5RjX0JTCCgjwyMEEgD2nFFX7cdM')
+bot = telebot.TeleBot('SomeToken')
 send = bot.send_message
 
 start_text = '/weather для вывода погоды\n/rates для получения курсов валют'
