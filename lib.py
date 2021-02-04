@@ -1,5 +1,5 @@
-import bot_api.weather as w
-import bot_api.exchange_rates as r
+import weather as w
+import exchange_rates as r
 
 
 class Api:

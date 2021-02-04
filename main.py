@@ -1,4 +1,4 @@
-from bot_api import Api
+from lib import Api
 import telebot
 
 bot = telebot.TeleBot('SomeToken')
